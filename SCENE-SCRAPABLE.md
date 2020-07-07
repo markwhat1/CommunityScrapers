@@ -185,6 +185,7 @@ hustlerhd.com|Hustler.yml
 hustlerparodies.com|Hustler.yml
 hustlerslesbians.com|Hustler.yml
 hustlerstaboo.com|Hustler.yml
+iafd.com|Iafd.yml
 iconmale.com|RealityKings.yml
 ikissgirls.com|IKissGirls.yml
 iknowthatgirl.com|RealityKings.yml
@@ -193,6 +194,7 @@ innocenthigh.com|PaperStreetMedia.yml
 intimatelesbians.com|Spizoo.yml
 isthisreal.com|IsThisReal.yml
 japanhdv.com|JapanHDV.yml
+javlibrary.com|javlibrary.yml
 jaysinxxx.com|GammaEntertainment.yml
 jerk-offpass.com|Teencoreclub.yml
 jessicajaymesxxx.com|Spizoo.yml
